@@ -1,0 +1,57 @@
+[
+  {
+    "id_paciente": 1,
+    "doenca_cardiaca": true,
+    "imc": 27.3,
+    "fumante": false,
+    "alcool": true,
+    "faixa_etaria": "31-40",
+    "raca_etnia": "Parda",
+    "saude_fisica": 4,
+    "saude_mental": 7
+  },
+  {
+    "id_paciente": 2,
+    "doenca_cardiaca": false,
+    "imc": 22.8,
+    "fumante": false,
+    "alcool": false,
+    "faixa_etaria": "21-30",
+    "raca_etnia": "Branca",
+    "saude_fisica": 9,
+    "saude_mental": 8
+  },
+  {
+    "id_paciente": 3,
+    "doenca_cardiaca": true,
+    "imc": 31.6,
+    "fumante": true,
+    "alcool": true,
+    "faixa_etaria": "51-60",
+    "raca_etnia": "Negra",
+    "saude_fisica": 3,
+    "saude_mental": 5
+  },
+  {
+    "id_paciente": 4,
+    "doenca_cardiaca": false,
+    "imc": 18.9,
+    "fumante": false,
+    "alcool": false,
+    "faixa_etaria": "18-20",
+    "raca_etnia": "Amarela",
+    "saude_fisica": 10,
+    "saude_mental": 9
+  },
+  {
+    "id_paciente": 5,
+    "doenca_cardiaca": true,
+    "imc": 29.4,
+    "fumante": true,
+    "alcool": false,
+    "faixa_etaria": "41-50",
+    "raca_etnia": "Indígena",
+    "saude_fisica": 5,
+    "saude_mental": 4
+  }
+]

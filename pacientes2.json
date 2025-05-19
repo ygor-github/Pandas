@@ -1,0 +1,80 @@
+[
+  {
+    "id_paciente": 1,
+    "dados_pessoais": {
+      "faixa_etaria": "31-40",
+      "raca_etnia": "Parda"
+    },
+    "habitos": {
+      "fumante": false,
+      "alcool": true,
+      "atividade_fisica": "moderada"
+    },
+    "condicoes_saude": {
+      "doenca_cardiaca": true,
+      "imc": 27.3,
+      "pressao_arterial": "alta",
+      "colesterol": "elevado"
+    },
+    "avaliacao": {
+      "saude_fisica": 4,
+      "saude_mental": 7,
+      "sono": {
+        "horas_sono": 6,
+        "qualidade": "regular"
+      }
+    }
+  },
+  {
+    "id_paciente": 2,
+    "dados_pessoais": {
+      "faixa_etaria": "21-30",
+      "raca_etnia": "Branca"
+    },
+    "habitos": {
+      "fumante": false,
+      "alcool": false,
+      "atividade_fisica": "intensa"
+    },
+    "condicoes_saude": {
+      "doenca_cardiaca": false,
+      "imc": 22.8,
+      "pressao_arterial": "normal",
+      "colesterol": "normal"
+    },
+    "avaliacao": {
+      "saude_fisica": 9,
+      "saude_mental": 8,
+      "sono": {
+        "horas_sono": 8,
+        "qualidade": "boa"
+      }
+    }
+  },
+  {
+    "id_paciente": 3,
+    "dados_pessoais": {
+      "faixa_etaria": "51-60",
+      "raca_etnia": "Negra"
+    },
+    "habitos": {
+      "fumante": true,
+      "alcool": true,
+      "atividade_fisica": "leve"
+    },
+    "condicoes_saude": {
+      "doenca_cardiaca": true,
+      "imc": 31.6,
+      "pressao_arterial": "muito alta",
+      "colesterol": "muito elevado"
+    },
+    "avaliacao": {
+      "saude_fisica": 3,
+      "saude_mental": 5,
+      "sono": {
+        "horas_sono": 5,
+        "qualidade": "ruim"
+      }
+    }
+  }
+]
